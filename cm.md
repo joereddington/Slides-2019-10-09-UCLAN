@@ -10,7 +10,7 @@ Thank you everyone for coming. We all have big workloads and I really appreciate
 
 # Housekeeping
 
-* You can view this presentation at http://joereddington.com/presentations/cm2019/
+* You can view this presentation at http://joereddington.com/slides/cm2019/
 
 * Go ahead and tweet, I'm also auto-tweeting the slides as they come up. 
 
@@ -96,7 +96,7 @@ When we founded eQuality Time, we wanted to make open and free AAC software a ke
 # How the Open Voice Factory works
 * The Open Voice Factory is about free AAC 
 * [Fully live site](http://www.theopenvoicefactory.org/)
-* For all them missing people 
+* For all the missing people 
 * Edit by PowerPoint. 
 * Uses the Open Board format 
 * Entirely Open Source 
@@ -123,6 +123,7 @@ I'm going to keep running it, almost entirely out of stubboness, but that's actu
 
 We are ridiculously grateful to Comic Relief; both the funding at the way they awarded it. 
 
+* Where we were beforehand
 * Simply entry: video and single page
 * Video is at: 
 * Fund wasn't actually for us. 
