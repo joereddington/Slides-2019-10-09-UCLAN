@@ -188,15 +188,13 @@ By the end of Monday you will have your plot, from your plot you get characters,
 
 1700 Friday you will be done. Signed, sealed, delivered.  Should be on Amazon that night. Signings and so on.   
 
-
 --- 
 
 # Leaders 
 
-
-* Mostly useful for people who want to be better writers and who want to stretch themselves. 
-* We also run a leadership program, for leaders, to lead.  
-* I write a lot of references for that second one. 
+* If have have done my job properly...   
+* Anything that changes your life...
+* We have a system for that... 
 
 --- 
 
@@ -208,13 +206,10 @@ By the end of Monday you will have your plot, from your plot you get characters,
 * You also get to, you know, help kids with special needs, or from the care system. Go to Holland. Prison families 
 * Technically you can turn it into a job - once people get to a certain point we pay you. One guy has this as a full time job. 
 
-
 --- 
 ![leaders](leaders.jpg)
 
-
 --- 
-
 
 # Goals for Talk
 
@@ -222,9 +217,6 @@ By the end of Monday you will have your plot, from your plot you get characters,
 * Everyone who hasn't, wants to. 
 * Everyone gets something out of the session in terms of writing productively 
 * I make my train 
-
-
-
 
 
 --- 
