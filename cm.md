@@ -1,7 +1,9 @@
-# Writing Sprints
+# The Greatest Week of Your Degree
 
 ---
+# Getting started 
 
+* We're talking until 1400. 
 * Slides are at https://joereddington.github.io/Slides-2019-10-09-UCLAN/
 * This QR code will get you there 
 
@@ -13,24 +15,42 @@ Thank you everyone for coming. We all have big workloads and I really appreciate
 
 ---
 
-# Ego slide
+
+# Start with the thank yous
+
+![leaders](leaders.jpg)
+
+# Presenter Notes
+These guys, Angela 
+
+
+
+--- 
+# Me
 
 * Dr Joseph Redington 
 * I run writing teams.
 * I train leaders to run writing teams. 
-* 2000 graduates. Over a 100 of them university level.   
+* 200 Sprints so far. 
 
 ![Star wars](ego.gif)
 
 --- 
-# Things you should already know 
+# You 
 
+Victims of the British Educational System 
 
-* We're talking about fiction 
-* We're talking until 1400. 
+* Private
+* Individual 
+* Externally Motivated 
+* Fake
+
+# Presenter Notes
+I can tell you this with no doubt, if you do this project, you will learn more than any other week here. 
 
 
 --- 
+
 
 # Goals for Talk
 * Everyone who has enrolled in a team writing project knows the rules 
@@ -39,6 +59,30 @@ Thank you everyone for coming. We all have big workloads and I really appreciate
 * I make my train 
 
 ![plan](plan.gif)
+
+--- 
+
+# Goals for a writing sprint 
+
+If you forget everything else... 
+
+* A team of ten work together and publicly release something *real* for everyone to see.
+* Given an impossible task: complete, polished novel in five days, 9-5 
+* They do something on Friday that they thought was impossible on Monday. 
+
+![Important week for you](important.webp)
+
+--- 
+
+# You will be upgraded
+
+* Distance 
+* Speed 
+* Iteration - intense feedback 
+* Dropping habits that don't help: procrastination, identities, ego. 
+
+
+![upgrade](upgrade.png)
 
 --- 
 
@@ -62,28 +106,6 @@ A One that people buy the sequel to.
 
 
 --- 
-
-# What will you do on a writing team? 
-
-* 9-5 for five days. 
-* Publish novel. [Everyone claps, Obama is there](https://knowyourmeme.com/memes/and-then-the-whole-bus-clapped). 
-* You will be a better writer.    
-
-![upgrade](upgrade.png)
-
---- 
-
-# Why will you be better
-
-* Distance 
-* Speed 
-* Iteration - intense feedback 
-* Dropping habits that don't help: procrastination, identities, ego. 
-
-![Important week for you](important.webp)
-
-
---- 
 # How the sprint works
 
 * Preparation 
@@ -91,8 +113,6 @@ A One that people buy the sequel to.
 * Drafting (Tuesday/Wednesday) 
 * Editing (Thursday/Friday) 
 * Followup. 
-
-
 
 --- 
 # Preparation 
@@ -150,7 +170,7 @@ By the end of Monday you will have your plot, from your plot you get characters,
 
 # Wednesday
 
-* like tuesday, but you procrastinated the hard scenes
+* like Tuesday, but you procrastinated the hard scenes
 * Like Tuesday but you now believe you'll do it so they are easier. 
 * We expect university students to hit about 80,000 words at the end of Wednesday 
 * Day of blood. Not drafted at close of play = deleted. 
@@ -172,7 +192,6 @@ By the end of Monday you will have your plot, from your plot you get characters,
 --- 
 
 # Leaders 
-
 
 
 * Mostly useful for people who want to be better writers and who want to stretch themselves. 
